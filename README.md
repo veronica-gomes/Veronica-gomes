@@ -12,4 +12,3 @@ Welcome to my profile of platform Github!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-gomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-9f4f5cdb393299a81125eb5127929ea7bfe42889
