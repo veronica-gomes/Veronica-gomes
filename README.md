@@ -12,4 +12,4 @@ Welcome to my profile of platform Github!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-gomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <i class="devicon-photoshop-plain colored"></i>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
