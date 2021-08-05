@@ -12,4 +12,7 @@ Welcome to my profile of platform Github!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-gomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ 
+ 
+ 
 <img src="https://komarev.com/ghpvc/?username=Veronica-gomes&color=red" alt="Veronica-gomes" /> 
