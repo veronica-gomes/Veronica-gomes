@@ -13,3 +13,4 @@ Welcome to my profile of platform Github!
 </div>
 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+ <i class="devicon-photoshop-plain colored"></i>
