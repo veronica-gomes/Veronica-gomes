@@ -21,6 +21,6 @@ Welcome to my profile of platform Github!
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
- </>
+##
+ 
 <img src="https://komarev.com/ghpvc/?username=Veronica-gomes&color=red" alt="Veronica-gomes" /> 
