@@ -30,7 +30,6 @@
   <a href="https://www.linkedin.com/in/veronica-gomes-854045198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
- ##
  <div>
     <img align="right" alt="Veronica-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/873268228510601226/873268381204246528/230829111_3651945274905212_6841571214309510829_n.gif">
   </div>
