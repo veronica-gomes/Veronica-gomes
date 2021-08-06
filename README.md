@@ -17,7 +17,7 @@
   <img align="center" alt="Veronica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Veronica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Veronica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img aling="rigth" alt="Veronica-gif" scr="https://cdn.discordapp.com/attachments/873268228510601226/873268381204246528/230829111_3651945274905212_6841571214309510829_n.gif">
+  <img align="right" alt="Veronica-gif" src="https-cdndiscordappcom-attachments-873268228510601226-873268381204246528-230829111-3651945274905212-6841571214309510829-ngif">
 </div>
 
  ##
