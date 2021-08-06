@@ -17,7 +17,6 @@
   <img align="center" alt="Veronica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Veronica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Veronica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Veronica-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/873268228510601226/873268381204246528/230829111_3651945274905212_6841571214309510829_n.gif">
 </div>
 
  ##
@@ -29,6 +28,9 @@
   <a href="https://www.instagram.com/veronikdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:veronicatgo2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/veronica-gomes-854045198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   </div>
- 
+
+ ##
+ <div>
+    <img align="right" alt="Veronica-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/873268228510601226/873268381204246528/230829111_3651945274905212_6841571214309510829_n.gif">
+  </div>
