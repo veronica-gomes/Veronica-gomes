@@ -17,7 +17,7 @@
   <img align="center" alt="Veronica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Veronica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Veronica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  URL=https://picasion.com/][IMG]https://i.picasion.com/pic91/3048bb4e887a9fc8f4a170f8deae9c4b.gif[/IMG][/URL][URL=https://picasion.com/]https://picasion.com/[/URL
+   
 </div>
 
  ##
