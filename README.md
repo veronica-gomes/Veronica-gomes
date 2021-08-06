@@ -3,8 +3,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about front-end and back-end
 - 💞️ I’m looking to collaborate with a team
-- 📫 How to reach me veronica_tgo@hotmail.com
-- 💻 I'm interested in work with programinng 
+- 💻 I'm interested in work with programinng
+- 📫 See how to find my social media  here down 
 
  <div>
   <a href="https://github.com/Veronica-gomes">
@@ -21,7 +21,6 @@
 </div>
 
  ##
-<img src="https://komarev.com/ghpvc/?username=Veronica-gomes&color=red" alt="Veronica-gomes" /> 
 
  ##
  <div>
