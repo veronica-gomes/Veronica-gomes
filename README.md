@@ -1,4 +1,4 @@
-## Welcome to my profile of platform Github!
+## Welcome to my profile of Github platform!
 - 👋 Hi, I’m @Veronica-gomes
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about front-end and back-end
@@ -17,7 +17,7 @@
   <img align="center" alt="Veronica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Veronica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Veronica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
+  <img aling="rigth" alt="Veronica-gif" scr="file-c-users-veron-downloads-230829111-3651945274905212-6841571214309510829-ngif">
 </div>
 
  ##
