@@ -1,4 +1,4 @@
-### Welcome to my profile of platform Github!
+##### Welcome to my profile of platform Github!
 - 👋 Hi, I’m @Veronica-gomes
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about front-end and back-end
