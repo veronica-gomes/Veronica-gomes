@@ -3,7 +3,7 @@
 - 👀  I’m interested in programming
 - 🌱  I’m currently learning about front-end and back-end
 - 💞️  I’m looking to collaborate with a team
-- 💻# I'm interested in work with programinng
+- 💻 # I'm interested in work with programinng
 - 📫  See how to find my social media  here down 
 
  <div>
