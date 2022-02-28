@@ -19,7 +19,6 @@
   <img align="center" alt="Veronica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Veronica-Java" height="50" width="60" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"
   <img align="center" alt="Veronica-Bootstrap" height="30" width="180" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- office&logoColor=white">
   </div>
 
  ##
