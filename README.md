@@ -26,6 +26,7 @@
  <img src="https://komarev.com/ghpvc/?username=Veronica-gomes&color=red" alt="Veronica-gomes" /> 
 
  ##
+ 
  <div>
   <a href="https://www.instagram.com/veronikdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:veronicatgo2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,6 +34,8 @@
   <a href = "mailto:veronica_tgo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "http://api.whatsapp.com/send?phone=5511910096886" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   </div>
+ 
+ ##
 
  <div>
     <img align="right" alt="Veronica-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/873268228510601226/873268381204246528/230829111_3651945274905212_6841571214309510829_n.gif">
